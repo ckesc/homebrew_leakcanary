@@ -1,14 +1,14 @@
 # Ckesc Leakcanary_brew
 
 ## How do I install these formulae?
-`brew install ckesc/leakcanary_brew/<formula>`
+`brew install ckesc/leakcanary/<formula>`
 
-Or `brew tap ckesc/leakcanary_brew` and then `brew install <formula>`.
+Or `brew tap ckesc/leakcanary https://github.com/ckesc/homebrew_leakcanary` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/ckesc/homebrew-leakcanary_brew/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/ckesc/homebrew-leakcanary/master/Formula/<formula>.rb
 ```
 
 ## Documentation
